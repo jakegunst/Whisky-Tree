@@ -1,6 +1,6 @@
 # Whisky-Tree
 
-
+![myimage-alt-tag](https://github.com/jakegunst/Whisky-Tree/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(11-inch)%20-%202019-02-19%20at%2018.34.38.png?raw=true)
 
 This is my take on the Apple Pie project, a word-guessing game.
 
