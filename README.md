@@ -9,4 +9,4 @@ Guess the word! Each time you guess correctly, letters fill in the blanks. Guess
 A player wins by HAVING FUN.
 
 Technologies Used:
-Swift, Xcode
+Swift, Xcode, Pixelmator, Icon Set Creator
